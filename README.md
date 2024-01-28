@@ -1,7 +1,7 @@
 
 # Projeto - Venda de Sites
 
-É uma landing page simples para venda de sites.
+É uma landing page simples para venda de sites. [Acesse o site aqui](https://venda-de-sites.vercel.app/)
 
 
 ## Stack utilizada
