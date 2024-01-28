@@ -80,11 +80,11 @@ addMenu.addEventListener("click", function () {
   outMenu.className = "outMenu";
 });
 
-outMenu.addEventListener("click", function (){
+outMenu.addEventListener("click", function () {
   removeColumn.className = "coluna1";
   addLinks.className = "coluna2";
   adjustContainerNav.className = "container-nav";
   adjustNavbar.className = "navbar";
   addMenu.className = "menu";
   outMenu.className = "disable";
-})
+});
